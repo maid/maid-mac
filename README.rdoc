@@ -1,9 +1,7 @@
-maid-mac
-========
+= maid-mac
 
 Mac OS X GUI for Maid, written in MacRuby.
 
-Acknowledgements
-----------------
+== Acknowledgements
 
 * {Yashwant Chauhan}[https://github.com/yshchan]
