@@ -1,16 +1,18 @@
-= maid-mac
+# maid-mac
 
 macOS GUI for Maid, written in MacRuby.
 
 **Maintainer wanted!** Please get in touch if you're interested.
 
-== Installation
+## Installation
 
 To install Maid Mac, open up Terminal and `cd` the path of the Maid app.
 
+```
 $ cd ~/Downloads/maid-mac
 $ macruby app.rb
+```
 
-== Acknowledgements
+## Acknowledgements
 
-* {Yashwant Chauhan}[https://github.com/yshchan]
+* [Yashwant Chauhan](https://github.com/yshchan)
