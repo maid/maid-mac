@@ -1,6 +1,8 @@
 = maid-mac
 
-Mac OS X GUI for Maid, written in MacRuby.
+macOS GUI for Maid, written in MacRuby.
+
+**Maintainer wanted!** Please get in touch if you're interested.
 
 == Installation
 
